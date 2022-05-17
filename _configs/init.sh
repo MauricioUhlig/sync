@@ -11,4 +11,4 @@ FOLDER=$(pwd)/sync.sh
 chmod u+x $FOLDER
 
 # Criando Job de sync 
-(crontab -l && echo "*/5 * * * * $FOLDER") | crontab -
+(crontab -l && echo "*/1 * * * * sh $FOLDER") | crontab -

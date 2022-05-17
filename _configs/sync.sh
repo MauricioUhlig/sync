@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 #echo "Sync path using Git with GitHub"
 
 TODAY=$(date +"%F %H:%M:%S")
