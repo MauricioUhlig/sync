@@ -15,4 +15,4 @@ git pull
 git add . 
 git commit -m "sync date: $TODAY"
 
-git push 
+git push origin main 
