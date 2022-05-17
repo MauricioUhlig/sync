@@ -5,8 +5,7 @@ TODAY=$(date +"%F %H:%m:%S")
 COMPUTER_NAME=$(uname -n)
 COMMIT="sync date: $TODAY - $COMPUTER_NAME"
 
-echo $COMMIT
-
+cd ..
 git pull 
 
 git add . 
