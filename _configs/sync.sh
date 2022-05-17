@@ -1,7 +1,7 @@
 #!/bin/zsh
-echo "Sync path using Git with GitHub"
+#echo "Sync path using Git with GitHub"
 
-TODAY=$(date +"%F %H:%m:%S")
+TODAY=$(date +"%F %H:%M:%S")
 COMPUTER_NAME=$(uname -n)
 COMMIT="sync date: $TODAY - $COMPUTER_NAME"
 
