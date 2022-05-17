@@ -10,7 +10,7 @@ COMPUTER_NAME=$(uname -n)
 COMMIT="sync date: $TODAY - $COMPUTER_NAME"
 
 cd /home/Mauricio/Documents/sync
-git pull 
+git pull origin main
 
 git add . 
 git commit -m "sync date: $TODAY"
