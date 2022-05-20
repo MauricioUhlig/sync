@@ -15,3 +15,4 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 [main ee1987f] sync date: 2022-05-19 21:23:01
  1 file changed, 2 insertions(+)
 fatal: could not read Username for 'https://github.com': No such device or address
+fatal: could not read Username for 'https://github.com': No such device or address
