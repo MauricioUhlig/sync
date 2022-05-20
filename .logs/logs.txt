@@ -71,3 +71,15 @@ fatal: Não foi possível ler do repositório remoto.
 
 Certifica-se que tem os direitos de acesso corretos
 e que o repositório existe.
+[main 3cd3b14] sync date: 2022-05-19 21:29:01
+ 1 file changed, 10 insertions(+)
+Host key verification failed.
+fatal: Não foi possível ler do repositório remoto.
+
+Certifica-se que tem os direitos de acesso corretos
+e que o repositório existe.
+Host key verification failed.
+fatal: Não foi possível ler do repositório remoto.
+
+Certifica-se que tem os direitos de acesso corretos
+e que o repositório existe.
