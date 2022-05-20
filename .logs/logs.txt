@@ -1,17 +1,12 @@
-Host key verification failed.
+ssh: Could not resolve hostname github.com:MauricioUhlig: Name or service not known
 fatal: Não foi possível ler do repositório remoto.
 
 Certifica-se que tem os direitos de acesso corretos
 e que o repositório existe.
-[main 26be080] sync date: 2022-05-19 21:32:01
- 1 file changed, 5 insertions(+)
-Host key verification failed.
-fatal: Não foi possível ler do repositório remoto.
+fatal: Não é possível criar '/home/Mauricio/Documents/sync/.git/index.lock': File exists.
 
-Certifica-se que tem os direitos de acesso corretos
-e que o repositório existe.
-Host key verification failed.
-fatal: Não foi possível ler do repositório remoto.
-
-Certifica-se que tem os direitos de acesso corretos
-e que o repositório existe.
+Outro processo git parece estar a executar neste repositório, e.g.
+um editor aberto por 'git commit'. Certifique-se que todos os processos
+terminaram e tente de novo. Se ainda assim falhar, um processo git
+pode ter falhado anteriormente no repositório:
+remova o ficheiro manualmente para continuar.
