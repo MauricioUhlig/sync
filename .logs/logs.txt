@@ -20,3 +20,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
  1 file changed, 1 insertion(+)
 fatal: could not read Username for 'https://github.com': No such device or address
 fatal: could not read Username for 'https://github.com': No such device or address
+[main 7fb3bd7] sync date: 2022-05-19 21:25:01
+ 1 file changed, 4 insertions(+)
+fatal: could not read Username for 'https://github.com': No such device or address
+Host key verification failed.
+fatal: Não foi possível ler do repositório remoto.
+
+Certifica-se que tem os direitos de acesso corretos
+e que o repositório existe.
