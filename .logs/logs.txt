@@ -1,0 +1,5 @@
+Host key verification failed.
+fatal: Não foi possível ler do repositório remoto.
+
+Certifica-se que tem os direitos de acesso corretos
+e que o repositório existe.
