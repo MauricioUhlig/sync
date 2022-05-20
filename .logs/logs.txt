@@ -61,3 +61,13 @@ Certifica-se que tem os direitos de acesso corretos
 e que o repositório existe.
 [main 8bbd15f] sync date: 2022-05-19 21:28:01
  1 file changed, 12 insertions(+)
+Host key verification failed.
+fatal: Não foi possível ler do repositório remoto.
+
+Certifica-se que tem os direitos de acesso corretos
+e que o repositório existe.
+Host key verification failed.
+fatal: Não foi possível ler do repositório remoto.
+
+Certifica-se que tem os direitos de acesso corretos
+e que o repositório existe.
