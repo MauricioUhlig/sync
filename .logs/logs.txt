@@ -83,3 +83,22 @@ fatal: Não foi possível ler do repositório remoto.
 
 Certifica-se que tem os direitos de acesso corretos
 e que o repositório existe.
+[main 07c0968] sync date: 2022-05-19 21:30:01
+ 1 file changed, 12 insertions(+)
+Host key verification failed.
+fatal: Não foi possível ler do repositório remoto.
+
+Certifica-se que tem os direitos de acesso corretos
+e que o repositório existe.
+Host key verification failed.
+fatal: Não foi possível ler do repositório remoto.
+
+Certifica-se que tem os direitos de acesso corretos
+e que o repositório existe.
+fatal: Não é possível criar '/home/Mauricio/Documents/sync/.git/index.lock': File exists.
+
+Outro processo git parece estar a executar neste repositório, e.g.
+um editor aberto por 'git commit'. Certifique-se que todos os processos
+terminaram e tente de novo. Se ainda assim falhar, um processo git
+pode ter falhado anteriormente no repositório:
+remova o ficheiro manualmente para continuar.
