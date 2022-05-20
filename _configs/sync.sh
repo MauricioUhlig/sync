@@ -9,7 +9,7 @@ TODAY=$(date +"%F %H:%M:%S")
 COMPUTER_NAME=$(uname -n)
 COMMIT="sync date: $TODAY - $COMPUTER_NAME"
 
-export GIT_SSH_COMMAND="ssh -i /home/ubuntu/src/id_rsa"
+export GIT_SSH_COMMAND="ssh -i /home/Mauricio/.ssh/id_rsa"
 cd /home/Mauricio/Documents/sync
 git pull origin main
 
