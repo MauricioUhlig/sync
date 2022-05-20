@@ -3,3 +3,4 @@ fatal: could not read Username for 'https://github.com': No such device or addre
  1 file changed, 1 insertion(+)
  create mode 100644 .logs/logs.txt
 fatal: could not read Username for 'https://github.com': No such device or address
+fatal: could not read Username for 'https://github.com': No such device or address
