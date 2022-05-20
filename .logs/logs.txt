@@ -4,3 +4,16 @@ fatal: Não foi possível ler do repositório remoto.
 
 Certifica-se que tem os direitos de acesso corretos
 e que o repositório existe.
+[main f39c87a] sync date: 2022-05-20 00:18:01
+ 1 file changed, 6 insertions(+), 90 deletions(-)
+ rewrite .logs/logs.txt (94%)
+ssh: Could not resolve hostname github.com:MauricioUhlig: Name or service not known
+fatal: Não foi possível ler do repositório remoto.
+
+Certifica-se que tem os direitos de acesso corretos
+e que o repositório existe.
+ssh: Could not resolve hostname github.com:MauricioUhlig: Name or service not known
+fatal: Não foi possível ler do repositório remoto.
+
+Certifica-se que tem os direitos de acesso corretos
+e que o repositório existe.
